@@ -7,4 +7,7 @@ You can find a full explaination presentation of these results at: https://youtu
 
 The related Tableau visualization: https://public.tableau.com/profile/terra1948#!/vizhome/DDAdvantageDisadvantageProbabilities/Nonvantage
 
-My linkedIn: https://www.linkedin.com/in/terra-j-riley/
+You can find me at:
+ - LinkedIn: https://www.linkedin.com/in/terra-j-riley/
+ - Tableau: https://public.tableau.com/profile/terra1948/
+ - Youtube: https://www.youtube.com/channel/UCnORTMC0xfh75fUejKIBWug
